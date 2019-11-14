@@ -175,6 +175,11 @@ span {
   text-align: center;
 }
 
+video-js .vjs-big-play-button {
+      background-color: red;
+      opacity: .3;
+    }
+
 /* Media queries to handle various device widths */
 
 @media only screen and (max-width: 1024px) {
